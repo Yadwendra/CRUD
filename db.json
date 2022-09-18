@@ -1,0 +1,34 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Kumar",
+      "email": "kumar@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Vishal",
+      "email": "vishal@gmail.com"
+    },
+    {
+      "name": "Shiva ",
+      "email": "shiva@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Siwani",
+      "email": "siwani@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Abhishek",
+      "email": "ecommerce@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "mytest1",
+      "email": "kumar@virtualanalytics.ai",
+      "id": 8
+    }
+  ]
+}
